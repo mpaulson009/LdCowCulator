@@ -1,0 +1,68 @@
+
+.logo{
+    background-image: url(./SCM-Logo.png);
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: white;
+    border: 3px solid black;
+    width: 100%;
+    height: 10em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: #23a454e8;
+    color: rgb(29, 28, 29);
+}
+
+.leftBlock{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    width: 50%;
+    font-size: larger;
+    display: block;
+    background-color: #ea644cbb;
+    border: 3px solid #050505d3;
+    border-radius: 20px;
+    padding: 2%;
+    text-align: center;
+}
+
+.rightBlock
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: #ea644cbb;
+    border: 3px solid #050505d3;
+    border-radius: 20px;
+    width: 65%;
+    font-size: x-large;
+    display: block;
+}
+
+#calculateButton{
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+    background-color: rgba(51, 49, 50, 0.945);
+    color: #23A455;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5%;
+    display: block;
+}
+
+footer{
+    background-color: white;
+    border: 1px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
