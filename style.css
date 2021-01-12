@@ -66,3 +66,16 @@ footer{
     text-align: center;
     width: 100%;
 }
+
+select{
+    width: 80px;
+    height: 30px;
+    font-size: 15px;
+    text-align: center;
+}
+
+input{
+    width: 80px;
+    height: 30px;
+    font-size: 15px;
+}
